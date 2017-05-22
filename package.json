@@ -4,6 +4,7 @@
   "description": "kuaida is website.",
   "repository": "https://github.com/kuaida/kuaida",
   "main": "index.js",
+  "license": "MIT",
   "scripts": {
     "sequelize": "node_modules/.bin/sequelize",
     "lint": "eslint --ext .js,.jsx app server",
@@ -71,6 +72,7 @@
     "helmet": "^3.5.0",
     "json-loader": "^0.5.4",
     "lodash": "^4.16.2",
+    "material-ui": "^0.18.1",
     "method-override": "^2.3.8",
     "mongoose": "^4.9.3",
     "passport": "^0.3.2",
@@ -85,6 +87,7 @@
     "prop-types": "^15.5.4",
     "react": "^15.5.3",
     "react-addons-test-utils": "^15.5.0",
+    "react-bootstrap": "^0.31.0",
     "react-dom": "^15.5.3",
     "react-helmet": "^5.0.2",
     "react-redux": "^5.0.3",
